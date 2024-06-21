@@ -1,0 +1,6 @@
+env
+
+resumeuploader/resumeuploader/.env
+resumeuploader/resumeuploader/__pycache__
+
+resumeuploader/api/__pycache__
